@@ -1,0 +1,21 @@
+.about{
+    width: 1200px;
+    margin: 150px auto;
+    display: grid;
+    grid-template-columns: 25% 50% 25%;
+    grid-template-rows: 100px;
+    color: #22356F;
+    font-size: 16px;
+}
+
+.MainText{
+    width: 500px;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.footerText{
+    text-align: center;
+    margin: 20px;
+    color: rgba(34, 53, 111, 0.5);
+}

@@ -1,0 +1,37 @@
+.MainBlock{
+    width: 1440px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 33.3% 67.7%; 
+    color:  #22356F;
+    font-size: 16px;
+}
+
+.head{
+    display: inline-block;
+    margin: 103px 600px 0 106px;
+}
+
+.MainBlock p{
+    margin: 225px 175px 0 106px;
+    font-size: 36px;
+    line-height: 53px;
+    font-weight: 800;
+}
+
+.log{
+    color: #62D0DF; 
+}
+
+.btn{
+    width: 500px;
+    height: 40px;
+    margin: 152px 0 40px 106px;
+    font-size: 16px;
+    text-align: start;
+    background-color: white;
+    border: 0;
+    color: #FAB63E;
+    font-weight: 700;
+    text-transform: uppercase;
+}

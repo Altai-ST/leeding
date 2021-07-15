@@ -1,0 +1,22 @@
+.MainBlock{
+    width: 1440px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(3, 33.3%);
+    grid-template-rows: 240px 300px;
+    color: #22356F;
+}
+
+.MainBlock div{
+    font-size: 16px;
+    padding: 55px 0 37px 105px;
+}
+
+.MainBlock div h3{
+    font-size: 28px;
+}
+
+.MainBlock div p{
+    color: #22356F, 50%;
+    padding-right: 77px;
+}

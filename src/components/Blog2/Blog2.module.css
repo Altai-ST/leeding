@@ -1,0 +1,44 @@
+.MainBlock{
+    width: 1440px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 67.7% 33.3% ; 
+    color:  #FFFFFF;
+    font-size: 16px;
+}
+
+.content{
+    background-color: #22356F;
+}
+
+.head{
+    display: inline-block;
+    margin: 103px 0 0 180px;
+}
+
+.MainBlock h3{
+    margin: 230px 0 0 180px;
+    padding: 0;
+    font-size: 64px;
+}
+
+.MainBlock p{
+    margin: 75px 201px 0 180px;
+    font-size: 36px;
+    line-height: 53px;
+    font-weight: 800;
+}
+
+
+.btn{
+    width: 500px;
+    height: 40px;
+    margin: 52px 0 40px 180px;
+    font-size: 16px;
+    text-align: start;
+    background-color: #22356F;
+    border: 0;
+    color: #62D0DF;
+    font-weight: 700;
+    text-transform: uppercase;
+}

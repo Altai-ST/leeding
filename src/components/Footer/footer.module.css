@@ -1,0 +1,15 @@
+footer{
+    margin: 0 auto;
+    width: 1440px;
+    background-color: #62D0DF;
+    height: 80px;
+    color: white;
+}
+
+footer p{
+    margin: 0;
+    padding: 34px 180px;
+}
+footer span{
+    padding-right: 6px;
+}

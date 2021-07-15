@@ -1,0 +1,33 @@
+.MainBlock{
+    width: 1400px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 65% 35%;
+    grid-template-rows: 603px;
+    grid-template-areas: 'b1 b2';
+}
+
+.b1{
+    grid-area: b1;
+    background-color: #62D0DF;
+    color: #ffffff;
+}
+
+.b1 h2{
+    margin:150px 0 0 170px;
+}
+.b1 p{
+    margin:75px 180px 0 170px;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 35px;
+}
+
+.b1 p span{
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.b2{
+    grid-area: b2;
+}
